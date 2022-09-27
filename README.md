@@ -1,16 +1,18 @@
 # Federico Pessina Personal Portfolio Website and Dev Blog
 
+This is my personal portfolio website to show which are my interest and opinios on various topics related to my professional life.
+
 <!-- [Grayscale](https://startbootstrap.com/theme/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). -->
 
-<!-- ## Preview
+## Preview
 
-[![Grayscale Preview](https://assets.startbootstrap.com/img/screenshots/themes/grayscale.png)](https://startbootstrap.github.io/startbootstrap-grayscale/)
+<!-- [![Grayscale Preview](https://assets.startbootstrap.com/img/screenshots/themes/grayscale.png)](https://startbootstrap.github.io/startbootstrap-grayscale/)
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-grayscale/)** -->
 
-<!-- ## Status
+## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-grayscale/master/LICENSE)
+<!-- [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-grayscale/master/LICENSE)
 [![npm version](https://img.shields.io/npm/v/startbootstrap-grayscale.svg)](https://www.npmjs.com/package/startbootstrap-grayscale)
 [![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-grayscale/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-grayscale)
 [![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-grayscale/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-grayscale?type=dev) -->
@@ -24,7 +26,14 @@ To begin using this template, choose one of the following options to get started
 - Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-grayscale.git`
 - [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-grayscale) -->
 
-<!-- ## Usage -->
+## Usage
+
+This website is intended to share information and connect with people interested in finance, software development, data science.
+The people that wants to reach are:
+- Developers
+- Quants
+- Students
+- Recruiters
 
 <!-- ### Basic Usage
 
@@ -47,9 +56,10 @@ Clone the source files of the theme and navigate into the theme's root directory
 
 You must have npm installed in order to use this build environment. -->
 
-<!-- ## Bugs and Issues
+## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [theme overview page at Start Bootstrap](https://startbootstrap.com/theme/grayscale/). -->
+Have a bug or an issue with this template? [Open a new issue](https://github.com/federicopessina/WorkWebsite/issues) here on GitHub. 
+<!-- or leave a comment on the [theme overview page at Start Bootstrap](https://startbootstrap.com/theme/grayscale/). -->
 
 <!-- ## About
 
