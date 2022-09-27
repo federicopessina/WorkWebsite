@@ -78,4 +78,6 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 
 ## Copyright and License
 
-This project is base on the open source project [Start Bootstrap - Grayscale](https://startbootstrap.com/theme/grayscale/), Copyright 2013-2022 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-grayscale/blob/master/LICENSE) license.
+This project is base on the open source project [Start Bootstrap - Grayscale](https://startbootstrap.com/theme/grayscale/).
+Copyright 2013-2022 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-grayscale/blob/master/LICENSE) license.
+Images are free for use and available on [Unsplash](https://unsplash.com/)
